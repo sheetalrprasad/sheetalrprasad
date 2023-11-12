@@ -27,7 +27,7 @@ I'm a Software Developer, Machine Learning Enthusiast and an Artist. I am passio
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/gitlab-99190A?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/gitlab-99190A?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ## Databases
