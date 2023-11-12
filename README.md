@@ -39,10 +39,6 @@ I'm a Software Developer, Machine Learning Enthusiast and an Artist. I am passio
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-## Github Stats
-
-![Sheetal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheetalrprasad&show_icons=true&theme=cobalt)
-
 
 ## Contact us
 
