@@ -1,13 +1,12 @@
-### Hello!!! Sheetal Prasad here... 👋
+# Hello!!! Sheetal Prasad here... 👋
 I'm a Software Developer, Machine Learning Enthusiast and an Artist. I am passionate about staying up to date with the latest advancements in technology and programming languages, and I love to travel and explore new cultures.
 
 
 
-- 🔭 I’m currently working on Web Developemtent for University Library
-- 🌱 Currently pursuing a master's in computer science at San Diego State University. Having taken a career break to pursue higher education, I am eager to re-enter the industry and contribute to innovative projects.
-- 💬 Software Engineer with expertise in Full-stack and back-end development, skilled in Python, Golang, Java, SQL, NoSQL, ReactJS, and Django. Proficient in NumPy, Pandas, SciPy, PyTorch, NLP, and Sklearn, contributing valuable insights to Machine Learning and Data Analysis. 
-- 📫 How to reach me: https://sheetalrprasad.github.io/
+- 🔭 I’m currently working on Web Development for University Library
+- 🌱 Pursuing a master's in computer science at San Diego State University. Having taken a career break to pursue higher education, I am eager to re-enter the industry and contribute to innovative projects.
 - ⚡ Beyond my technical abilities, I am also highly organized and skilled in coordinating team events and recreational activities. I believe in fostering a positive and collaborative work environment, where team members feel valued and supported.
+- 📫 How to reach me: https://sheetalrprasad.github.io/
 
 ## Programming Languages
 <p>
@@ -39,6 +38,10 @@ I'm a Software Developer, Machine Learning Enthusiast and an Artist. I am passio
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
+
+## Github Stats
+
+![Sheetal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheetalrprasad&show_icons=true&theme=cobalt)
 
 
 ## Contact us
